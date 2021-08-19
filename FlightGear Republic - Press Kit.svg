@@ -34,7 +34,7 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -47,9 +47,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     inkscape:zoom="0.32"
-     inkscape:cx="6236.721"
-     inkscape:cy="9426.3407"
+     inkscape:zoom="0.04"
+     inkscape:cx="4908.2797"
+     inkscape:cy="5500.6877"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -187,55 +187,63 @@
          sodipodi:role="line">FGRAF</tspan></text>
   </g>
   <g
-     id="g3712">
+     id="g3712"
+     style="fill:#9a9996;">
     <path
-       style="fill:#f8f8ff;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 699.82826,2599.6245 84.91969,-48.7372 189.63591,43.1659 540.39704,11.2992 90.5981,-162.3563 116.348,-2.1638 51.6067,159.4915 99.5875,5.7389 -2.7674,38.3314 -166.4149,24.3335 -93.3363,197.8926 -248.4461,-0.4202 -388.57107,-170.0179 -273.15116,-5.8543 -193.75476,-27.3972 z"
        id="path4223"
        sodipodi:nodetypes="cccccccccccccccc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 699.82826,2599.6245 107.57181,8.3234 167.81556,-13.8773"
        id="path4398"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 973.38543,2696.1821 -169.56415,-36.5014 825.79952,-8.9862 74.1181,18.0331"
        id="path900"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 1617.5239,2851.5217 -63.3543,-0.074 40.2843,-104.3605 43.38,-74.8417 59.5411,9.9753"
        id="path902"
        sodipodi:nodetypes="ccccc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 1727.7415,2459.4202 -48.0811,1.7406 36.4969,130.7771 54.0841,-1.1709"
        id="path904"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9a9996;stroke:#000000;stroke-width:4.83325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        d="m 1663.4434,2754.1626 -68.9895,-7.0758"
        id="path906"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
-       inkscape:export-xdpi="2.7576802"
-       inkscape:export-ydpi="2.7576802" />
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#ff7800;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       d="m 702.92533,2599.8641 81.82261,-48.9768 180.6398,43.996 -157.98768,13.0646 z"
+       id="path3951"
+       inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </g>
   <g
      id="g993"
@@ -354,7 +362,7 @@
   <g
      id="g1020-3-3"
      transform="matrix(0,-0.04941945,0.13044663,0,1318.01,2748.4886)"
-     inkscape:export-filename="/home/reglnx/NueDocuments/FGR-MediaKit/Press Kit Images/100 dpi/FGRAF Roundel 100 dpi.png"
+     inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
      inkscape:export-xdpi="100"
      inkscape:export-ydpi="100">
     <title
@@ -392,8 +400,8 @@
   </g>
   <g
      id="g1065-2"
-     transform="matrix(0.38100177,0,0,0.38100177,2693.4398,2082.0546)"
-     inkscape:export-filename="/home/reglnx/NueDocuments/FGR-MediaKit/Press Kit Images/100 dpi/FlightGear Republic Flag 100 dpi.png"
+     transform="matrix(0.04794186,0,0,0.04794186,1766.2835,2473.0157)"
+     inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
      inkscape:export-xdpi="100"
      inkscape:export-ydpi="100">
     <title
@@ -420,6 +428,91 @@
        style="fill:#1c71d8;stroke:none;stroke-width:0.344739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -2676.065,926.21434 -16.8576,17.88503 35.5644,48.51555 245.4573,-4.31712 -268.2415,118.1961 40.4665,81.4168 -45.4352,50.1201 -45.6349,-50.1201 40.067,-82.0289 -268.4619,-117.17297 245.4575,4.31717 9.4558,-24.05216 -27.1382,10.2788 6.5771,-28.78046 z"
        id="path913-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/reglnx/black.png"
+       inkscape:export-xdpi="9.8567333"
+       inkscape:export-ydpi="9.8567333" />
+  </g>
+  <g
+     id="g1060-0"
+     transform="matrix(0.06688934,0,0,0.06688934,847.31057,2485.7776)"
+     inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100">
+    <title
+       id="title4406-9">Coat Of Arms</title>
+    <path
+       id="path1397-3"
+       style="fill:#ffffff;stroke:none;stroke-width:0.377393"
+       d="m -1564.8507,2017.5961 184.372,180.3537 116.4445,113.9065 -300.8166,500.5614 -300.8166,-500.1095 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="rect1022-6"
+       style="fill:#1c71d8;stroke:none;stroke-width:0.343273"
+       d="m -1564.8507,2053.5257 167.7031,164.048 105.9168,103.6084 -273.62,455.306 -273.62,-454.895 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path1025-0"
+       style="fill:#ffffff;stroke:none;stroke-width:0.308946"
+       d="m -1564.8507,2089.6738 246.2579,240.8908 -246.258,409.7754 -246.258,-409.4055 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#1c71d8;stroke:none;stroke-width:0.344739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1555.3949,2259.0986 -16.8576,17.8851 35.5644,48.5155 245.4573,-4.3171 -268.2415,118.1961 40.4665,81.4168 -45.4352,50.1201 -45.6349,-50.1201 40.067,-82.0289 -268.4619,-117.173 245.4575,4.3172 9.4558,-24.0522 -27.1382,10.2788 6.5771,-28.7804 z"
+       id="path913-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/reglnx/black.png"
+       inkscape:export-xdpi="9.8567333"
+       inkscape:export-ydpi="9.8567333" />
+    <text
+       id="text1033-2"
+       y="2235.877"
+       x="-1657.8444"
+       style="font-style:normal;font-weight:normal;font-size:61.8218px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:1.54555"
+       xml:space="preserve"
+       inkscape:export-filename="/home/reglnx/FGRAF.png"
+       inkscape:export-xdpi="80.674164"
+       inkscape:export-ydpi="80.674164"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Bold';fill:#1c71d8;stroke-width:1.54555"
+         y="2235.877"
+         x="-1657.8444"
+         id="tspan1031-6"
+         sodipodi:role="line">FGRAF</tspan></text>
+  </g>
+  <g
+     id="g1020-3-7"
+     transform="matrix(0.03771419,0,0,0.03771419,1804.3974,2593.0621)"
+     inkscape:export-filename="/home/reglnx/FGR Livery Guideline.png"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100">
+    <title
+       id="title4408-6-5">Roundel</title>
+    <g
+       id="g1014-7-9"
+       transform="matrix(0.65328575,0,0,0.65328575,778.97288,-326.40003)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.76714;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="circle1351-2"
+         cx="-3015.8484"
+         cy="2126.8181"
+         r="658.26764" />
+      <circle
+         style="fill:#1c71d8;fill-opacity:1;stroke:none;stroke-width:2.326;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="path988-5-2"
+         cx="-3015.8484"
+         cy="2126.8181"
+         r="553.32782" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6282;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="circle990-3-8"
+         cx="-3015.8484"
+         cy="2126.8181"
+         r="387.32947" />
+    </g>
+    <path
+       style="fill:#1c71d8;stroke:none;stroke-width:0.344739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1181.782,907.11167 -16.8576,17.8851 35.5644,48.5155 245.45731,-4.3171 -268.24151,118.19613 40.4665,81.4168 -45.4352,50.1201 -45.6349,-50.1201 40.067,-82.0289 -268.4619,-117.17303 245.4575,4.3172 9.4558,-24.0522 -27.1382,10.2788 6.5771,-28.7804 z"
+       id="path913-3-56-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/reglnx/black.png"
        inkscape:export-xdpi="9.8567333"
